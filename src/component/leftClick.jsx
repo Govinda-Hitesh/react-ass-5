@@ -5,7 +5,7 @@ function CompA(Props){
     return(
         <div>
         <h1>Counter: {Counter}</h1>
-        <button onClick={HandleCounter}>Click functionality implimenting from Hoc </button>
+        <button onClick={HandleCounter}>Click</button>
         </div>
     )
 }
