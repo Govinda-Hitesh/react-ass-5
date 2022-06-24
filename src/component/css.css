@@ -1,0 +1,18 @@
+.Pure{
+    margin-left: 80px;
+    /* background-color: blue; */
+    margin-right: 80px;
+}
+.Heading{
+    margin-left: 40px;
+}
+.example{
+    text-align: center;
+}
+.complete{
+    background-color: rgb(89, 250, 218);
+    padding-bottom: 10px;
+}
+.HComplete{
+    background-color: rgb(19, 120, 182);
+}
